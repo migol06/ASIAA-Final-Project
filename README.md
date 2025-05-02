@@ -4,6 +4,9 @@
 
 This is a simple RESTful API for managing blog posts. It supports full CRUD operations and uses a relational database (PostgreSQL, MySQL, or MariaDB). The API is tested using Postman.
 
+* Provide basic API Security
+* Rate limiter (Every 2mins, 100 transactions)
+
 ---
 
 ## 🛠️ Technology Stack
